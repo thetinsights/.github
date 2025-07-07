@@ -1,0 +1,16 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 Contact the T-Insights Team
+    url: mailto:thetinsights@gmail.com
+    about: If your issue is sensitive or security-related, please contact us privately.
+
+issue_templates:
+  - name: 🐛 Bug Report
+    description: Report a bug or unexpected behavior in a T-Insights project.
+    labels: [bug]
+    file: bug_report.md
+
+  - name: 💡 Feature Request
+    description: Suggest a new feature, improvement, or enhancement.
+    labels: [enhancement]
+    file: feature_request.md

@@ -1,0 +1,31 @@
+version: 2
+updates:
+  # 1. Update GitHub Actions dependencies
+  - package-ecosystem: "github-actions"
+    directory: "/" # Location of your workflow files
+    schedule:
+      interval: "weekly" # Options: daily, weekly, monthly
+    commit-message:
+      prefix: "ci"
+    open-pull-requests-limit: 5
+
+  # 2. Update npm packages (e.g., React, Next.js, Tailwind projects)
+  - package-ecosystem: "npm"
+    directory: "/" # Update this if package.json is nested (e.g., /frontend/)
+    schedule:
+      interval: "weekly"
+    commit-message:
+      prefix: "chore"
+    open-pull-requests-limit: 5
+    ignore:
+      - dependency-name: "next"
+        versions: ["13.x"] # Example: ignore major version upgrade to v13
+      - dependency-name: "react-scripts"
+        versions: ["5.x"] # Optional: customize as needed
+
+
+  # 3. Optional: Monitor Docker (if you use containers)
+  # - package-ecosystem: "docker"
+  #   directory: "/"
+  #   schedule:
+  #     interval: "monthly"
