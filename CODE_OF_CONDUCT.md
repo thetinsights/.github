@@ -6,8 +6,6 @@ We as members, contributors, and leaders pledge to make participation in our com
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
----
-
 ## 🤝 Our Standards
 
 Examples of behavior that contributes to a positive environment include:
@@ -26,37 +24,29 @@ Examples of unacceptable behavior include:
 - Discriminatory or sexualized language or imagery
 - Personal attacks or political hostility
 
----
-
 ## 🛠 Enforcement Responsibilities
 
 Community leaders are responsible for clarifying and enforcing our standards. They will take appropriate and fair corrective action in response to any behavior they deem inappropriate, threatening, offensive, or harmful.
 
 Leaders have the right and responsibility to remove or reject contributions, comments, issues, and pull requests that are not aligned with this Code of Conduct.
 
----
-
 ## 📝 Scope
 
 This Code of Conduct applies within all community spaces—online and offline—including GitHub repositories, social media, forums, events, and direct interactions related to T-Insights.
-
----
 
 ## 🚨 Reporting and Enforcement
 
 If you experience or witness unacceptable behavior, please report it promptly by contacting our team:
 
-📧 **<thetinsights@gmail.com>**
+📧 **<sayhi.msg@gmail.com>**
 
 All complaints will be reviewed and investigated confidentially. We are committed to a respectful resolution process.
-
----
 
 ## 🧾 Attribution
 
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 2.1, available at:
 
-[https://www.contributor-covenant.org/version/2/1/code_of_conduct/](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
+[https://www.contributor-covenant.org/version/2/1/code_of_conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/)
 
 ---
 
