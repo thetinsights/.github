@@ -1,0 +1,48 @@
+{
+  "$schema": "https://raw.githubusercontent.com/all-contributors/all-contributors/master/docs/cli/schema.json",
+  "projectName": "T-Insights",
+  "projectOwner": "thetinsights",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "msa-iqbal",
+      "name": "Md. Shah Alam Iqbal",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68148955?v=4",
+      "profile": "https://github.com/msa-iqbal",
+      "contributions": [
+        "code",
+        "doc",
+        "maintenance",
+        "ideas",
+        "infra"
+      ]
+    },
+    {
+      "login": "SpnKhan",
+      "name": "Sapan Khan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/163470425?v=4",
+      "profile": "https://github.com/SpnKhan",
+      "contributions": [
+        "code",
+        "design",
+        "ideas"
+      ]
+    },
+    {
+      "login": "ttinsights",
+      "name": "T-T Insights Bot",
+      "avatar_url": "https://avatars.githubusercontent.com/u/161263769?v=4",
+      "profile": "https://github.com/ttinsights",
+      "contributions": [
+        "tool",
+        "automation"
+      ]
+    }
+  ]
+}
